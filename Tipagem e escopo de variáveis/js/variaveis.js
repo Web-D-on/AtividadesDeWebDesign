@@ -5,11 +5,13 @@ let idade = 19;
 let logado = true;
 
 //exibindo no console
+
 console.log(nome);
 console.log(email);
 console.log(idade, logado);
 
 //exibindo o tipo
+
 console.log(typeof nome);
 console.log(typeof email);
 console.log(typeof idade);
@@ -31,6 +33,7 @@ var poder = 'voar'
 //let é uma boa pratica e var não
 
 //coerção implicita
+
 console.log(typeof nome, nome);
 console.log(typeof idade, idade);
 
