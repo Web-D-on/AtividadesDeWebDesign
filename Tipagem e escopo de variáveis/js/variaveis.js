@@ -45,5 +45,6 @@ var valorInicial = true;
 console.log(valorInicial, typeof(valorInicial));
 
 //conertendo para string
+
 valorInicial = String(valorInicial);
 console.log(valorInicial, typeof(valorInicial));
